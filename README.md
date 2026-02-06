@@ -1,33 +1,35 @@
 <h1 align="center">Hi 👋, I'm Karamjass Kaur</h1>
 
 <p align="center">
-🤖 AI/ML Enthusiast | 💻 Machine Learning & Deep Learning Learner
+🤖 Aspiring AI Engineer | Machine Learning & Deep Learning Enthusiast
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🌱 Currently learning **Machine Learning & Deep Learning**
+- 🤖 Goal: Become an **AI Engineer**
 - 🧠 Building projects using **CNN, RNN, NLP & Streamlit**
 - 💡 Interested in **Healthcare AI & Legal AI**
-- 🚀 Passionate about real-world AI solutions
+- 🚀 Passionate about solving real-world problems using AI
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,sql" />
 </p>
 
-**AI & ML**
+### 🤖 AI & Machine Learning
 - Machine Learning  
 - Deep Learning  
 - CNN  
 - RNN  
+- NLP  
 
-**Libraries & Tools**
+### 🛠 Libraries & Tools
 - Streamlit  
 - Pandas  
 - NumPy  
@@ -36,23 +38,22 @@
 
 ---
 
-### 📊 Projects
+## 📊 Projects
 
-- 🏥 Healthcare Length of Stay Prediction
-- ⚖️ LawHub – Multilingual Legal AI
+- 🏥 Healthcare Length of Stay Prediction (ML + Streamlit)
+- ⚖️ LawHub – Multilingual Legal AI System
 - 🌱 Plant Prediction using CNN
-- 🤖 NLP & Chatbot Systems
+- 🤖 NLP & Chatbot Projects
 
 ---
 
-### 🔗 Connect With Me
+## 📬 Connect With Me
 
-<p align="left">
-<a href="https://github.com/karamjass"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+- 💼 LinkedIn: [Karamjass Kaur](https://www.linkedin.com/in/karamjass-kaur-145b30298/)
+- 📧 Email: karamjass16@gmail.com
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Career Goal
 
-I love building AI systems that solve real-world problems 🚀
+To become a skilled **AI Engineer** and build intelligent systems that solve real-world problems 🚀
